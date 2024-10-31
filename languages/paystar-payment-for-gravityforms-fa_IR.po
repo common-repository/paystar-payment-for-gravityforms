@@ -1,0 +1,924 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PayStar Payment Gateway for GravityForms\n"
+"POT-Creation-Date: 2024-01-30 19:04+0330\n"
+"PO-Revision-Date: 2024-01-30 19:04+0330\n"
+"Last-Translator: Seyed Hamzeh Fazeli <seyed.hamzeh.fazeli@gmail.com>\n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: chart.php:14
+msgid "Selected form not exists"
+msgstr "فرم درخواستی وجود ندارد"
+
+#: chart.php:139 chart.php:1405
+msgid "Today"
+msgstr "امروز"
+
+#: chart.php:143 chart.php:1409
+msgid "Last Day"
+msgstr "روز گذشته"
+
+#: chart.php:147
+msgid "Last 7 Days"
+msgstr "7 روز گذشته"
+
+#: chart.php:151
+msgid "This Week"
+msgstr "این هفته"
+
+#: chart.php:155
+msgid "Last 30 Days"
+msgstr "30 روز گذشته"
+
+#: chart.php:159
+msgid "This Month"
+msgstr "این  ماه"
+
+#: chart.php:162
+msgid "Last Month"
+msgstr "ماه گذشته"
+
+#: chart.php:165
+msgid "Last 2 Month"
+msgstr "2  ماه اخیر"
+
+#: chart.php:169
+msgid "Last 3 Month"
+msgstr "3  ماه اخیر"
+
+#: chart.php:173
+msgid "Last 6 Month"
+msgstr "6  ماه اخیر"
+
+#: chart.php:177
+msgid "Last 9 Month"
+msgstr "9  ماه اخیر"
+
+#: chart.php:181 chart.php:1312
+msgid "Last Year"
+msgstr "یک سال اخیر"
+
+#: chart.php:185 chart.php:1706
+msgid "Spring"
+msgstr "بهار"
+
+#: chart.php:188 chart.php:1715
+msgid "Summer"
+msgstr "تابستان"
+
+#: chart.php:191 chart.php:1726
+msgid "Autumn"
+msgstr "پاییز"
+
+#: chart.php:194 chart.php:1737
+msgid "Winter"
+msgstr "زمستان"
+
+#: chart.php:197
+msgid "This Year"
+msgstr "امسال"
+
+#: chart.php:202
+msgid "From Date"
+msgstr "از تاریخ"
+
+#: chart.php:205
+msgid "To Date"
+msgstr "تا تاریخ"
+
+#: chart.php:209
+msgid "Select"
+msgstr "انتخاب"
+
+#: chart.php:348
+msgid "PayStar Earning for form "
+msgstr "درامد های پی استار این فرم "
+
+#: chart.php:352 chart.php:409 chart.php:470 chart.php:528
+msgid "Not Found . "
+msgstr "یافت نشد . "
+
+#: chart.php:360
+msgid "Count All PayStar Payments for this form"
+msgstr "تعداد تراکنش های پی استار این فرم"
+
+#: chart.php:369
+msgid "Total PayStar Earning This form"
+msgstr "مجموع درامد پی استار این فرم"
+
+#: chart.php:405
+msgid "Total Earning for form"
+msgstr "مجموع درامد این فرم"
+
+#: chart.php:417
+msgid "Count All Payments for this form"
+msgstr "تعداد تراکنش های این فرم"
+
+#: chart.php:428
+msgid "Total All Earning this form"
+msgstr "مجموع درامد این فرم"
+
+#: chart.php:466
+msgid "Total PayStar Earning"
+msgstr "مجموع درامد پی استار"
+
+#: chart.php:478
+msgid "Payments count of PayStar"
+msgstr "تعداد کل پرداخت های درگاه پی استار"
+
+#: chart.php:487
+msgid "Payments Count of All PayStar Forms"
+msgstr "تعداد پرداخت های همه فرم های پی استار"
+
+#: chart.php:524
+msgid " Total Site Earning (All Forms, All gateways)"
+msgstr " کل درآمد های سایت ( همه روشها برای همه فرم ها)"
+
+#: chart.php:536
+msgid "Payments count of All Site Forms"
+msgstr "تعداد پرداخت های همه فرم های سایت"
+
+#: chart.php:545
+msgid "Total Payments of All Site Forms"
+msgstr "جمع پرداخت های همه فرم های سایت"
+
+#: chart.php:763 chart.php:909 chart.php:1114
+msgid "PayStar this form"
+msgstr "پی استار این فرم"
+
+#: chart.php:774
+msgid "All methods this form"
+msgstr "همه متدهای این فرم"
+
+#: chart.php:785 chart.php:932 chart.php:1136 chart.php:1147
+msgid "PayStar All forms"
+msgstr "پی استار همه فرم ها"
+
+#: chart.php:796 chart.php:943
+msgid "All forms"
+msgstr "همه فرم ها"
+
+#: chart.php:846 chart.php:1059 chart.php:1447 chart.php:1583 chart.php:1768
+#: chart.php:1913
+msgid "Payment Count "
+msgstr "تعداد پرداخت "
+
+#: chart.php:848 chart.php:1061 chart.php:1253 chart.php:1449 chart.php:1585
+#: chart.php:1770 chart.php:1915
+msgid "Due Pay"
+msgstr "پرداختی"
+
+#: chart.php:864
+msgid "7 Days"
+msgstr "7 روز"
+
+#: chart.php:868
+msgid "30 Days"
+msgstr "30 روز"
+
+#: chart.php:872
+#, php-format
+msgid "Count payments %s past %s"
+msgstr "تعداد پرداخت ها %s گذشته %s"
+
+#: chart.php:875 chart.php:876 chart.php:1080 chart.php:1082 chart.php:1323
+#: chart.php:1325 chart.php:1607 chart.php:1609 chart.php:1790 chart.php:1792
+#: chart.php:1954 chart.php:1956
+msgid " in day"
+msgstr " در روز"
+
+#: chart.php:877
+#, php-format
+msgid "Average Count Payments %s past %s"
+msgstr "میانگین تعداد پرداخت %s گذشته %s"
+
+#: chart.php:878
+#, php-format
+msgid "Average Payments %s past %s"
+msgstr "میانگین پرداخت ها %s گذشته %s"
+
+#: chart.php:880
+#, php-format
+msgid "Total Payments %s past %s"
+msgstr "مجموع پرداخت ها %s گذشته %s"
+
+#: chart.php:920 chart.php:1125
+msgid "All gateways this form"
+msgstr "همه درگاه ها این فرم"
+
+#: chart.php:1077
+msgid "Payments Count of This Week "
+msgstr "تعداد پرداخت های  این هفته "
+
+#: chart.php:1081
+msgid "Average Payments Count of This Week "
+msgstr "میانگین تعداد پرداخت های  این هفته "
+
+#: chart.php:1083
+msgid "Average Payments This Week "
+msgstr "میانگین پرداخت های این هفته "
+
+#: chart.php:1085
+msgid "Total Payments This Week "
+msgstr "جمع پرداخت های  این هفته "
+
+#: chart.php:1251
+msgid " تعداد پرداخت"
+msgstr ""
+
+#: chart.php:1262 chart.php:1298
+msgid " Month"
+msgstr " ماه"
+
+#: chart.php:1270 chart.php:1309
+msgid " Last Month"
+msgstr " ماه اخیر"
+
+#: chart.php:1273
+msgid " Last Year"
+msgstr " سال اخیر"
+
+#: chart.php:1316 chart.php:1327 chart.php:1794
+msgid "Payments Count of  "
+msgstr "تعداد پرداخت های "
+
+#: chart.php:1324 chart.php:1470
+msgid "Average Payment Count of "
+msgstr "میانگین تعداد پرداخت های "
+
+#: chart.php:1326
+msgid "Average Payments of "
+msgstr "میانگین پرداخت های "
+
+#: chart.php:1357 chart.php:1643 chart.php:1827
+msgid "پی استار این فرم"
+msgstr ""
+
+#: chart.php:1368 chart.php:1514 chart.php:1654 chart.php:1838
+msgid "همه روشهای این فرم"
+msgstr ""
+
+#: chart.php:1379 chart.php:1525 chart.php:1665 chart.php:1849
+msgid "All PayStar Forms"
+msgstr "همه فرم های پی استار"
+
+#: chart.php:1390 chart.php:1676
+msgid "همه فرم های سایت"
+msgstr ""
+
+#: chart.php:1466
+msgid "Payment Count of "
+msgstr "تعداد پرداخت های "
+
+#: chart.php:1469 chart.php:1471
+msgid " در ساعت"
+msgstr ""
+
+#: chart.php:1472
+msgid "میانگین پرداخت های "
+msgstr ""
+
+#: chart.php:1474
+msgid "Payments Count of "
+msgstr "تعداد پرداخت های "
+
+#: chart.php:1503
+msgid "PayStar This Form"
+msgstr "پی استار این فرم"
+
+#: chart.php:1536 chart.php:1860
+msgid "All Site Forms"
+msgstr "همه فرم های سایت"
+
+#: chart.php:1600
+msgid "Payments Count of This Year "
+msgstr "تعداد پرداخت های  امسال "
+
+#: chart.php:1608
+msgid "Average Payments Count of This Year "
+msgstr "میانگین تعداد پرداخت های  امسال "
+
+#: chart.php:1610
+msgid "Average Payments This Year "
+msgstr "میانگین پرداخت های امسال "
+
+#: chart.php:1612
+msgid "Total Payments Count of This Year "
+msgstr "مجموع پرداخت های  امسال "
+
+#: chart.php:1787
+msgid "Payment Count of  "
+msgstr "تعداد پرداخت های  "
+
+#: chart.php:1791 chart.php:1955
+msgid "Average Payment Count of  "
+msgstr "میانگین تعداد پرداخت های "
+
+#: chart.php:1793 chart.php:1957
+msgid "Average Payments of  "
+msgstr "میانگین پرداخت های  "
+
+#: chart.php:1951
+msgid "Payment Count of Selected Period "
+msgstr "تعداد پرداخت های بازه انتخابی "
+
+#: chart.php:1959
+msgid "Payments Count of بازه انتخابی "
+msgstr "تعداد پرداخت های "
+
+#: paystar.php:17
+msgid "paystar-payment-for-gravityforms"
+msgstr "درگاه پرداخت پی استار برای افزونه گرویتی فرمز"
+
+#: paystar.php:53 paystar.php:92 paystar.php:135 paystar.php:146
+#: paystar.php:925 paystar.php:977
+msgid "PayStar"
+msgstr "پی استار"
+
+#: paystar.php:54 paystar.php:399 paystar.php:1022
+msgid "PayStar Configuration settings"
+msgstr "تنظیمات درگاه پی استار"
+
+#: paystar.php:79
+#, php-format
+msgid ""
+"to use this plugin, you have to install persian gravity forms version 2.3.1 "
+"or newer. to install %s click here %s."
+msgstr ""
+"برای استفاده از نسخه جدید درگاه های پرداخت گرویتی فرم نصب بسته فارسی ساز "
+"نسخه 2.3.1 به بالا الزامی است. برای نصب فارسی ساز %sکلیک کنید%s."
+
+#: paystar.php:85
+#, php-format
+msgid ""
+"to use this plugin, you have to install gravity forms version %s or newer. "
+"to update gravity forms %s click here %s."
+msgstr ""
+"این افزونه به گرویتی فرمز نسخه %s نیاز دارد . برای بروز رسانی گرویتی فرمز به "
+"%s وبسایت گرویتی فرمز فارسی %s بروید."
+
+#: paystar.php:94
+msgid "Name"
+msgstr "نام"
+
+#: paystar.php:95
+msgid "Email"
+msgstr "ایمیل"
+
+#: paystar.php:96
+msgid "Mobile"
+msgstr "موبایل"
+
+#: paystar.php:97 paystar.php:1228
+msgid "Description"
+msgstr "توضیحات"
+
+#: paystar.php:126
+msgid ""
+"BE CAREFULL!!! this part of settings is to display to customers. to pervent "
+"any problems, set it up and dont change it again."
+msgstr ""
+"تذکر مهم : این قسمت برای نمایش به بازدید کننده می باشد و لطفا جهت جلوگیری از "
+"مشکل و تداخل آن را فقط یکبار تنظیم نمایید و از تنظیم مکرر آن خود داری "
+"نمایید ."
+
+#: paystar.php:183
+msgid ""
+"You do not have sufficient permissions to do so. Your access level is lower "
+"than allowed"
+msgstr "شما دسترسی لازم برای مشاهده این صفحه را ندارید"
+
+#: paystar.php:208
+msgid "charts"
+msgstr "نمودارها"
+
+#: paystar.php:352
+#, php-format
+msgid ""
+"this plugin require gravityforms version %s . to update gravityforms go to "
+"%s gravityforms persian website %s "
+msgstr ""
+"این افزونه به گرویتی فرمز نسخه %s نیاز دارد . برای بروز رسانی گرویتی فرمز به "
+"%s وبسایت گرویتی فرمز فارسی %s بروید "
+
+#: paystar.php:359
+msgid "feed deleted"
+msgstr "فید حذف شد"
+
+#: paystar.php:369
+msgid "feeds deleted"
+msgstr "فید ها حذف شدند"
+
+#: paystar.php:376
+msgid "PayStar Forms"
+msgstr "فرم های پی استار"
+
+#: paystar.php:379
+msgid "Add New"
+msgstr "اضافه کردن"
+
+#: paystar.php:391
+msgid "Bulk Action"
+msgstr "کارهای دسته جمعی"
+
+#: paystar.php:393
+msgid "Bulk Actions"
+msgstr "کارهای دسته جمعی"
+
+#: paystar.php:394 paystar.php:466 paystar.php:467 paystar.php:485
+msgid "Delete"
+msgstr "حذف"
+
+#: paystar.php:397
+msgid "Apply"
+msgstr "اعمال"
+
+#: paystar.php:397 paystar.php:467 paystar.php:485
+msgid "are you sure?"
+msgstr "مطمئنید؟"
+
+#: paystar.php:408 paystar.php:423
+msgid "Status"
+msgstr "وضعیت"
+
+#: paystar.php:410 paystar.php:424
+msgid "feed id"
+msgstr "آی دی فید"
+
+#: paystar.php:413 paystar.php:427
+msgid "form connected to gateway"
+msgstr "فرم متصل به درگاه"
+
+#: paystar.php:415 paystar.php:429
+msgid "Transaction type"
+msgstr "نوع تراکنش"
+
+#: paystar.php:443
+#, php-format
+msgid ""
+"to start, you have to enable gateway. go to  %s PayStar Configuration "
+"settings %s "
+msgstr ""
+"برای شروع ، درگاه را فعال کنید . به %s تنظیمات درگاه پی استار %s بروید "
+
+#: paystar.php:454 paystar.php:455 paystar.php:551
+msgid "Gateway is Enable"
+msgstr "درگاه فعال است"
+
+#: paystar.php:454 paystar.php:455 paystar.php:547
+msgid "Gateway is Disable"
+msgstr "درگاه غیرفعال است"
+
+#: paystar.php:461 paystar.php:462 paystar.php:479 paystar.php:480
+msgid "edit feed"
+msgstr "ویرایش فید"
+
+#: paystar.php:476
+msgid "reconfiguration Gateway settings"
+msgstr "پیکربندی مجدد تنظیمات درگاه"
+
+#: paystar.php:484
+msgid "delete feed"
+msgstr "حذف فید"
+
+#: paystar.php:489
+msgid "edit form"
+msgstr "ویرایش فرم"
+
+#: paystar.php:490
+msgid "edit forms"
+msgstr "ویرایش فرم ها"
+
+#: paystar.php:494 paystar.php:495
+msgid "show entries"
+msgstr "نمایش ورودی ها"
+
+#: paystar.php:499 paystar.php:500
+msgid "form charts"
+msgstr "نمودارهای فرم"
+
+#: paystar.php:508
+msgid "registration"
+msgstr "عضویت"
+
+#: paystar.php:510
+msgid "simple product or submit post form"
+msgstr "محصول معمولی یا فرم ارسال پست"
+
+#: paystar.php:523 paystar.php:525
+#, php-format
+msgid "you have not any paystar feed . %s create one %s ."
+msgstr "شما هیچ فید پی استار ایجاد نکرده اید . %s یکی ایجاد کنید %s ."
+
+#: paystar.php:561
+msgid "an Ajax Error occurred"
+msgstr "یک خطای آجاکس رخ داد"
+
+#: paystar.php:666
+msgid "Transaction Details :"
+msgstr "جزئیات تراکنش :"
+
+#: paystar.php:693 paystar.php:696 paystar.php:719 paystar.php:724
+#: paystar.php:729 paystar.php:732 paystar.php:838 paystar.php:841
+msgid "Successful"
+msgstr "موفق"
+
+#: paystar.php:699 paystar.php:739 paystar.php:844
+msgid "Cancelled"
+msgstr "لغو شده"
+
+#: paystar.php:702 paystar.php:736 paystar.php:847
+msgid "Unsuccessful"
+msgstr "ناموفق"
+
+#: paystar.php:705 paystar.php:742 paystar.php:850
+msgid "Processing"
+msgstr "معلق"
+
+#: paystar.php:708
+msgid "Payment Status : "
+msgstr "وضعیت پرداخت : "
+
+#: paystar.php:709
+msgid "Payment Date : "
+msgstr "تاریخ پرداخت : "
+
+#: paystar.php:710
+msgid "Payment Amount : "
+msgstr "مبلغ پرداخت : "
+
+#: paystar.php:711
+msgid "RefNum : "
+msgstr "شماره پیگیری : "
+
+#: paystar.php:712
+msgid "Payment Gateway: PayStar"
+msgstr "درگاه پرداخت : پی استار"
+
+#: paystar.php:745
+msgid "Payment Status :"
+msgstr "وضعیت پرداخت :"
+
+#: paystar.php:750
+msgid "Payment Date :"
+msgstr "تاریخ پرداخت :"
+
+#: paystar.php:755
+msgid "Payment Amount :"
+msgstr "مبلغ پرداختی :"
+
+#: paystar.php:760
+msgid "Transaction ID :"
+msgstr "شناسه تراکنش :"
+
+#: paystar.php:768
+msgid "Payment Gateway : PayStar (not editable)"
+msgstr "درگاه پرداخت : پی استار (غیرقابل ویرایش)"
+
+#: paystar.php:820 paystar.php:1679 paystar.php:1918
+msgid "Guest"
+msgstr "مهمان"
+
+#: paystar.php:853
+#, php-format
+msgid ""
+"Transaction information was edited manually. Status : %s - Price : %s - "
+"RefNum : %s - Date : %s"
+msgstr ""
+"تراکنش بصورت دستی ویرایش شده . وضعیت : %s - مبلغ : %s - شماره پیگیری : %s - "
+"تاریخ : %s"
+
+#: paystar.php:858
+msgid ""
+"The Curl library method set is not enabled on your server. You must enable "
+"Curl to use this plugin. Contact the host manager"
+msgstr ""
+"مجموعه دستورات Curl بر روی سرور شما فعال نیست. برای استفاده از درگاه باید آن "
+"را فعال نمایید. با مدیر هاست تماس بگیرید"
+
+#: paystar.php:864
+msgid ""
+"The plugin was successfully deactivated and the information related to it "
+"was lost. You can proceed to reactivate it through WordPress plugins"
+msgstr ""
+"درگاه با موفقیت غیرفعال شد و اطلاعات مربوط به آن نیز از بین رفت برای "
+"فعالسازی مجدد میتوانید از طریق افزونه های وردپرس اقدام نمایید"
+
+#: paystar.php:884
+msgid ""
+"Communication with the gateway was established and the information entered "
+"is correct"
+msgstr "ارتباط با درگاه برقرار شد و اطلاعات وارد شده صحیح است"
+
+#: paystar.php:889 paystar.php:892
+msgid "Configuration Saved ."
+msgstr "تنظیمات ذخیره شد ."
+
+#: paystar.php:900
+msgid "PayStar Configuration"
+msgstr "تنظیمات پی استار"
+
+#: paystar.php:906
+msgid "Enable"
+msgstr "فعال"
+
+#: paystar.php:912
+msgid "Yes"
+msgstr "بله"
+
+#: paystar.php:917
+msgid "Terminal"
+msgstr "شناسه درگاه"
+
+#: paystar.php:933
+msgid "Title"
+msgstr "عنوان"
+
+#: paystar.php:945 paystar.php:1437
+msgid "Save"
+msgstr "ذخیره"
+
+#: paystar.php:958
+msgid "Disable PayStar Payment Gateway"
+msgstr "غیرفعالسازی درگاه پی استار"
+
+#: paystar.php:961
+msgid "Note: After deactivating, all data about PayStar will be deleted"
+msgstr "تذکر : بعد از غیرفعالسازی تمامی اطلاعات مربوط به پی استار حذف خواهد شد"
+
+#: paystar.php:963
+msgid "uninstall PayStar Payment plugin"
+msgstr "غیرفعالسازی پلاگین پرداخت پی استار"
+
+#: paystar.php:963
+msgid ""
+"Note: After deactivating, all data about PayStar will be deleted. are you "
+"sure?"
+msgstr ""
+"تذکر : بعد از غیرفعالسازی تمامی اطلاعات مربوط به پی استار حذف خواهد شد . "
+"مطمنید؟"
+
+#: paystar.php:1014
+msgid "PayStar Gateway Configuration"
+msgstr "تنظیمات درگاه پی استار"
+
+#: paystar.php:1017
+#, php-format
+msgid "feed: %s"
+msgstr "فید : %s"
+
+#: paystar.php:1018
+#, php-format
+msgid "form: %s"
+msgstr "فرم : %s"
+
+#: paystar.php:1063
+#, php-format
+msgid "feed updated . %s return to the list %s."
+msgstr "فید بروز رسانی شد . %s بازگشت به لیست %s ."
+
+#: paystar.php:1074
+#, php-format
+msgid "feed updated . %s return to the list %s . "
+msgstr "فید بروز رسانی شد . %s بازگشت به لیست %s . "
+
+#: paystar.php:1084
+msgid "select a feed"
+msgstr "یک فید  انتخاب کنید"
+
+#: paystar.php:1090
+msgid "change PayStar feed"
+msgstr "تغییر فید پی استار"
+
+#: paystar.php:1094
+#, php-format
+msgid "form: %s (feed: %s)"
+msgstr "فرم : %s (فید : %s)"
+
+#: paystar.php:1158
+msgid "PayStar Payment Configuration"
+msgstr "تنظیمات درگاه پی استار"
+
+#: paystar.php:1168
+msgid "select form"
+msgstr "یک فرم انتخاب کنید"
+
+#: paystar.php:1174
+msgid "select a form"
+msgstr "یک فرم انتخاب کنید"
+
+#: paystar.php:1195
+msgid "form has not any priceing field. try again"
+msgstr "فرم شامل فیلد قیمت گذاری نیست . مجددا تلاش کنید"
+
+#: paystar.php:1204
+msgid "registration form"
+msgstr "فرم عضویت"
+
+#: paystar.php:1212
+msgid ""
+"if you check this, registration will be done with User Registration addon "
+"after Successful payments"
+msgstr ""
+"در صورتی که تیک بزنید عملیات ثبت نام که توسط افزونه User Registration پس از "
+"پرداخت موفق انجام خواهد شد"
+
+#: paystar.php:1217
+msgid "payment Description"
+msgstr "توضیحات و راهنمای پرداخت"
+
+#: paystar.php:1223
+msgid "shortcodes : {form_id} , {form_title} , {entry_id}"
+msgstr "شرتکد ها : {form_id} , {form_title} , {entry_id}"
+
+#: paystar.php:1240
+msgid "payer name"
+msgstr "نام پرداخت کننده"
+
+#: paystar.php:1252
+msgid "payer family"
+msgstr "فامیل پرداخت کننده"
+
+#: paystar.php:1264
+msgid "Payer email"
+msgstr "ایمیل پرداخت کننده"
+
+#: paystar.php:1276
+msgid "Payer mobile"
+msgstr "موبایل پرداخت کننده"
+
+#: paystar.php:1289
+msgid "create post after payment"
+msgstr "ایجاد پست پس از پرداخت"
+
+#: paystar.php:1295 paystar.php:1317
+msgid "default"
+msgstr "پیشفرض"
+
+#: paystar.php:1297
+msgid "publish"
+msgstr "منتشر شده"
+
+#: paystar.php:1299 paystar.php:1321
+msgid "draft"
+msgstr "پیشنویس"
+
+#: paystar.php:1301 paystar.php:1323
+msgid "pending"
+msgstr "در انتظار"
+
+#: paystar.php:1303 paystar.php:1325
+msgid "private"
+msgstr "خصوصی"
+
+#: paystar.php:1309
+msgid "create post before payment"
+msgstr "ایجاد پست پیش از پرداخت"
+
+#: paystar.php:1315
+msgid "dont create post"
+msgstr "پستی ایجاد نکن"
+
+#: paystar.php:1319
+msgid "publish post"
+msgstr "منتشر شده"
+
+#: paystar.php:1331
+msgid "Compatibility with add-ons"
+msgstr "سازگاری با افزونه ها"
+
+#: paystar.php:1339
+msgid ""
+"some gravityforms addons has function add_delayed_payment_support . if you "
+"want this methods works only after Successful payment, check this"
+msgstr ""
+"بعضی افزونه های گرویتی فرمز دارای متدی با نام add_delayed_payment_support "
+"هستند . اگر شما میخاهید این متد پس از پرداخت موفق اجرا شود ، این گزینه را "
+"تیک بزنید"
+
+#: paystar.php:1348
+msgid "conditional logic"
+msgstr "منطق شرطی"
+
+#: paystar.php:1354
+msgid "Enable conditional logic"
+msgstr "فعالسازی منطق شرطی"
+
+#: paystar.php:1360
+msgid "Enable gateway if "
+msgstr "فعالسازی درگاه اگر "
+
+#: paystar.php:1362
+msgid "All"
+msgstr "همه"
+
+#: paystar.php:1363
+msgid "at least one"
+msgstr "حداقل یکی"
+
+#: paystar.php:1365
+msgid "Comply with the following options:"
+msgstr "مطابق گزینه های زیر باشند :"
+
+#: paystar.php:1399
+msgid "is"
+msgstr "برابر"
+
+#: paystar.php:1400
+msgid "is not"
+msgstr "نابرابر"
+
+#: paystar.php:1401
+msgid "greater than"
+msgstr "بزرگتر از"
+
+#: paystar.php:1402
+msgid "less than"
+msgstr "کوچکتر از"
+
+#: paystar.php:1403
+msgid "contains"
+msgstr "شامل"
+
+#: paystar.php:1404
+msgid "starts with"
+msgstr "شروع با"
+
+#: paystar.php:1405
+msgid "ends with"
+msgstr "پایان با"
+
+#: paystar.php:1425
+msgid ""
+"To place conditional logic, your form fields must also have conditional logic"
+msgstr ""
+"برای قرار دادن منطق شرطی، باید فیلدهای فرم شما هم قابلیت منطق شرطی را داشته "
+"باشند"
+
+#: paystar.php:1596
+msgid "enter a value"
+msgstr "یک مقدار وارد نمایید"
+
+#: paystar.php:1661 paystar.php:1665
+msgid "redirecting ...."
+msgstr "در حال انتقال ...."
+
+#: paystar.php:1840
+msgid "Pay"
+msgstr "پرداخت"
+
+#: paystar.php:1849
+msgid "An error occurred"
+msgstr "خطایی رخ داد"
+
+#: paystar.php:1850
+msgid "Sorry, we are unable to connect to the gateway. Reason : "
+msgstr "خطا در اتصال به درگاه . علت : "
+
+#: paystar.php:1857
+#, php-format
+msgid "An error occurred while connecting to the gateway : %s"
+msgstr "خطا در اتصال به درگاه . علت : %s"
+
+#: paystar.php:1979
+msgid ""
+"Changes to data fields will only be applied to this entry message and will "
+"not affect the user status"
+msgstr ""
+"تغییرات فیلد های داده تنها در این ورودی اعمال خواهد شد و تاثیری در وضعیت "
+"کاربر ندارد"
+
+#: paystar.php:1989
+msgid "Payment Status : Free - No Need to payment gateway"
+msgstr "وضعیت پرداخت : رایگان - بدون نیاز به درگاه"
+
+#: paystar.php:1991
+#, php-format
+msgid ""
+"Payment Status : Successful - Paid Amount : %s - RefNum : %s - Card Number : "
+"%s"
+msgstr ""
+"وضعیت پرداخت : موفق - مبلغ پرداختی : %s - شماره پیگیری : %s - شماره کارت : %s"
+
+#: paystar.php:2048
+#, php-format
+msgid "Payment Status : Cancelled - Payable Amount : %s - RefNum : %s"
+msgstr "وضعیت پرداخت : لغو شده - مبلغ پرداختی : %s - شماره پیگیری : %s"
+
+#: paystar.php:2054
+#, php-format
+msgid ""
+"Payment Status : Unsuccessful - Payable Amount : %s - RefNum : %s - Reason : "
+"%s"
+msgstr ""
+"وضعیت پرداخت : ناموفق - مبلغ پرداختی : %s - شماره پیگیری : %s - علت : %s"
